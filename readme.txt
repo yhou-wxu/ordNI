@@ -1,5 +1,5 @@
 # Code for model estimation and sample size determination in 
-"Multiple assessments of non-inferiority trials with ordinal endpoints" by Xu et al. (2022)
+"Multiple assessments of non-inferiority trials with ordinal endpoints" by Xu et al. (2023)
 
 # Content:
 * demo.R: load core functions to analysis Example 1 in the aforementioned paper. 
